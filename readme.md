@@ -20,4 +20,6 @@ Ao rodar o arquivo crack_detection.py todas as imagens na pasta test_images são
 
 ## Vídeo demonstração
 
-segue o video 
+O video se encontra no diretório e tem nome video.mp4
+
+
